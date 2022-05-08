@@ -1,10 +1,10 @@
 {
   "name": "mydao",
   "version": "2.0.0",
-  "engines": {
-    "node": "17.3.1"
-  },
   "private": true,
+  "engines": {
+    "node": "17.x"
+  },
   "dependencies": {
     "@thirdweb-dev/react": "^2.0.3",
     "@thirdweb-dev/sdk": "^2.0.19",
